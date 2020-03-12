@@ -16,6 +16,6 @@
     "express": "^4.15.2",
     "express-session": "^1.15.2",
     "mongoose": "^4.9.8",
-    "nodemon": "^1.11.0"
+    "nodemon": "^1.12.0"
   }
 }
